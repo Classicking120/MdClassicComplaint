@@ -4,6 +4,8 @@
 
 The **Complaint Ticket System** is designed for lifetechocms framework is a user-friendly platform for handling complaints through a ticket-based workflow. Complainants can submit issues and receive a unique Ticket ID. Administrators can view, respond, and update complaint statuses. Both parties can exchange messages through a chat-style interface, with full support for email notifications and ticket history tracking.
 
+## 🔍 Framework Used
+This project uses [Lifetech OCMS](https://github.com/lifetechOCMS/lifetechocms.git) as its framework.
 ---
 
 ## 👤 Complainant Features
