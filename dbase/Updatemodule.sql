@@ -1,0 +1,1 @@
+UPDATE module_tbl SET module_name='mdClassicComplaint',module_image='N',status='Enabled',date_created='2025-04-05 07:16:53',last_update='2025-04-10 08:02:50'WHERE module_name='mdClassicComplaint';;;;;_lifetechend;;;;;
