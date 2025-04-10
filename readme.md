@@ -37,7 +37,7 @@ vi.	Every admin reply generates an automatic email notification to the Complaina
  
  
  
-2.	Admin View Individual Complainant Complaint:  This Content allows admins to quickly locate and review all complaint tickets asssociated with a particular Complainant using their username or matric no.
+2.	Admin View Individual Complainant Complaint:  This Content allows admins to quickly locate and review all complaint tickets associated with a particular Complainant using their username or matric no.
 
  
 
