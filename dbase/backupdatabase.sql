@@ -1,11 +1,6 @@
 -- PHP MySQL Dump
 --
 -- Host: 
-<<<<<<< HEAD
--- Generated: Thu, 10 Apr 2025 09:00:52 -0500
-=======
--- Generated: Thu, 10 Apr 2025 10:02:16 -0500
->>>>>>> f7e332b (contributing from abaj)
 -- PHP Version: 8.2.18
 
 SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";;;;;_lifetechend;;;;;
@@ -70,6 +65,7 @@ CREATE TABLE IF NOT EXISTS `tb_lifetech_lms_add_student` (
 
 --
 <<<<<<< HEAD
+<<<<<<< HEAD
 -- Table structure for table `tb_messages`
 --
 
@@ -88,6 +84,8 @@ CREATE TABLE IF NOT EXISTS `tb_messages` (
 --
 =======
 >>>>>>> f7e332b (contributing from abaj)
+=======
+>>>>>>> f7e332bffa112fb08d95e49b6464808108ab5ee0
 -- Table structure for table `tb_submit_complaint`
 --
 
