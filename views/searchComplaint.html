@@ -1,0 +1,165 @@
+{! import('mdClassicComplaint', 'MdClassicComplaintControllers.php'); !}
+{! import('mdClassicComplaint', 'complaintStyle.css') !}
+
+
+<html>
+    <head>
+        <title>Complaint Track</title>
+
+    </head>
+    
+    <body style="background: rgba(0, 0, 0, 0.1);">
+
+        <div style="margin-top: 26px; text-align:center;">
+            <img src="{!lifetech_media_path()!}/lifetech_logo.png" alt="logo" width="100" height="100"; style="border-radius: 10px">
+        </div>
+    
+        <div class="py-5 px-3">
+            <div class="container mt-2 px-4 shadow-lg rounded bg-light">
+              
+                <div class="row">
+                     <div class="col-12 ">
+                        <div class="container my-4"> 
+                            <form class="">
+                                <div class="d-flex flex-wrap align-items-end justify-content-center">                  
+                                    <!--<div class="form-group me-3 mb-2 w-50">-->
+                                        <div class="form-group flex-grow-1 me-3">
+                                            <label for="email" class="form-label"> Username / Matric No</label>
+                                            <input type="text" class="form-control p-2 border-0" id="email" placeholder="Email / Matric No">
+                                        </div>
+                                        <div class="form-group flex-grow-1 me-3">
+                                            <label for="search_input" class="form-label"> Search Ticket</label>
+                                            <input type="search" class="form-control p-2 border-0" id="search_input" placeholder="Tickets ID">
+                                        </div>
+                                    <!--</div>-->
+                                    <button class="btn btn-primary py-2 mt-4 me-2" type="button" id="search_button_student">
+                                        <i class="bi bi-search"></i> Search
+                                    </button>
+                                </div> 
+                            </form>
+                        </div>
+                    </div>
+                </div>
+               <div class="row d-none" id="displayComplaint">
+                     <div class="col-12">
+                        <div class="container my-4"> 
+                            <div class="card-body table-responsive">
+                                <div class="mb-1">
+                                    <p id="complaintID">  </p>
+                                    <p id="complaintStatus">  </p>
+                                </div>
+                                <table id="example" class="table table-striped table-hover dt-responsive" style="width:100%" cellspacing="0" >
+                                    <thead>
+                                        <tr>
+                                            <th>S/N</th>
+                                            <th>Ticket ID</th>
+                                            <th>Subject</th>
+                                            <th>Complaint</th>
+                                            <th>Status</th>
+                                            <th>Date/Time</th>
+                                            <th>Image</th>
+                                            <th>Action</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                       
+                                    </tbody>
+                                    <tfoot>
+                                            <tr>
+                                                <th>S/N</th>
+                                                <th>Ticket ID</th>
+                                                <th>Subject</th>
+                                                <th>Complaint</th>
+                                                <th>Status</th>
+                                                <th>Date/Time</th>
+                                                <th>Image</th>
+                                                <th>Action</th>
+                                            </tr>
+                                    </tfoot>
+                                </table>
+                            </div>
+                          
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+        
+    </body>
+</html>
+
+
+<!--Modal for Response Starts-->
+
+
+<div id="responseModal" class="modal fade" tabindex="-1" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title mt-0" id="myModalLabel">Feedback</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <!--modal-body -->
+            <form class="form-horizontal" id="frmComplaintResponse">
+                <div class="modal-body">
+                      <div id="repliesSection" class="chat-box">
+                        <!--Chat Message Display-->
+                          
+                      </div>  
+                  
+                </div>
+                  
+                <div class="modal-footer row g-2 align-items-center">
+                    <div class="col-md-8 w-100">
+                        <label for="complaint" class="form-label"><b>Reply:</b></label>
+                        <textarea class="form-control border-0" id="description" placeholder="Please provide your feedback..." name="description"></textarea>
+                        <p id="wordCount" class="text-danger small m-0">0 / 100 words</p>
+                    </div>
+                    <div class="col-md-4 text-end">
+                        <button class="btn btn-primary w-50" id="btnAddReply">Reply</button>
+                        <input type="hidden" id="user_id" data-sender="Student" value=""> 
+                        <input type="hidden" id="ticket_id" value=""> 
+                    </div>
+                </div>
+
+            </form>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<!--Modal for Response Ends-->
+  {! import('mdClassicComplaint', 'complaintScript.js') !}    
+      
+  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      

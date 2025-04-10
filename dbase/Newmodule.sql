@@ -1,0 +1,1 @@
+INSERT INTO module_tbl(module_name, module_image, status, date_created, last_update) VALUES('mdClassicComplaint','N','Enabled','2025-04-05 07:16:53','2025-04-10 08:02:50');;;;;_lifetechend;;;;;

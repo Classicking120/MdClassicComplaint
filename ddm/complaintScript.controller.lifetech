@@ -1,0 +1,747 @@
+y6tlacÑbdğŸad acbdÑiejrdq3yşadadŸac://ÑŠ™.ñacŠİšğbgbd.™İad/™Ÿß/acbjİİadŞšİbdadaq@kqkqdq3yg6tly6tl/acÑbdğŸadg6tl
+ y6tlacÑbdğŸadg6tl
+     
+$(bc™Ñadğı™(){
+    
+
+
+//// bc™Ñadğı™ adı ŸıŸ bcŸ ßıŠŞš
+
+bc™Ñadğı™ Ñı™adbdıšGEıŠŞš(ßıŠŞš6yŠ, adajŸİ){
+    ğ(adajŸİ iejriejr q6tlacşıbjq6tl){
+    šİad ßajGEıŠŞš iejr ™İbj ÇııadacadbdŞŸ.GEıŠŞš(ŠıÑbcßİ™ad.æİadb7šİßİ™adk7aj6yŠ(ßıŠŞš6yŠ));
+        
+        ßajGEıŠŞš.acşıbj();
+    }İšacİ ğ(adajŸİ iejriejr q6tlşğŠİq6tl){
+        šİad ßajGEıŠŞšb7š iejr ŠıÑbcßİ™ad.æİadb7šİßİ™adk7aj6yŠ(ßıŠŞš6yŠ);
+        šİad ßıŠŞš iejr ÇııadacadbdŞŸ.GEıŠŞš.æİad6y™acadŞ™Ñİ(ßajGEıŠŞšb7š);
+        ßıŠŞš.şğŠİ();
+    }
+}
+        
+bc™Ñadğı™ acÑbdıššG5ık7ıadadıß() {
+    //  rybcadı-acÑbdıšš adı šŞadİacad bdİŸšaj Şadİbd ŞŸŸİ™Šğ™æ
+    šİad ÑşŞadk7ıaf iejr ŠıÑbcßİ™ad.æİadb7šİßİ™adk7aj6yŠ(dq3ybdİŸšğİacHzİÑadğı™dq3y);
+    ÑşŞadk7ıaf.acÑbdıššG5ıŸ iejr ÑşŞadk7ıaf.acÑbdıšš6gİğæşad;
+}
+        
+ bc™Ñadğı™ ıbdßŞadG5ğßİ (adğßİHzadbdğ™æ){
+     bdİadbcbd™ ™İbj a7Şadİ(adğßİHzadbdğ™æ).adıBEıÑŞšİHzadbdğ™æ(q6tlİ™-H7Hzq6tl, {
+        ßı™adş: q6tlacşıbdadq6tl,
+        ŠŞaj: q6tl™bcßİbdğÑq6tl,
+        şıbcbd: q6tl™bcßİbdğÑq6tl,
+        ßğ™bcadİ: q6tlaq-Šğæğadq6tl,
+        şıbcbdkqaq: adbdbcİ
+    });
+ } 
+ 
+ 
+ $(ŠıÑbcßİ™ad).ı™(q6tlÑşŞ™æİq6tl, q6tl#ŸğÑadbcbdİq6tl, bc™Ñadğı™(İbgİ™ad){
+    Ñı™acad Ÿbdİbgğİbjb5ı™adŞğ™İbd iejr ŠıÑbcßİ™ad.æİadb7šİßİ™adk7aj6yŠ(dq3yŸbdİbgğİbjb5ı™adŞğ™İbddq3y);
+    Ñı™acad ğßŞæİB9bdİbgğİbj iejr ŠıÑbcßİ™ad.æİadb7šİßİ™adk7aj6yŠ(dq3yğßŞæİB9bdİbgğİbjdq3y);
+
+    Ñı™acad ğšİ iejr İbgİ™ad.adŞbdæİad.ğšİac[p1];
+
+    ğ (ğšİ jwytjwyt ğšİ.adajŸİ.acadŞbdadacK5ğadş(q6tlğßŞæİ/q6tl)) {
+        Ñı™acad bdİŞŠİbd iejr ™İbj 2dğšİBzİŞŠİbd();
+        bdİŞŠİbd.ı™šıŞŠ iejr bc™Ñadğı™(İ) {
+            ğßŞæİB9bdİbgğİbj.acbdÑ iejr İ.adŞbdæİad.bdİacbcšad;
+            Ÿbdİbgğİbjb5ı™adŞğ™İbd.acadajšİ.ŠğacŸšŞaj iejr dq3yÇšıÑŒdq3y; // Hzşıbj adşİ Ÿbdİbgğİbj acİÑadğı™
+        };
+        bdİŞŠİbd.bdİŞŠryaca7ŞadŞH7BzBE(ğšİ);
+    } İšacİ {
+        ğßŞæİB9bdİbgğİbj.acbdÑ iejr dq3ydq3y;
+        Ÿbdİbgğİbjb5ı™adŞğ™İbd.acadajšİ.ŠğacŸšŞaj iejr dq3y™ı™İdq3y; // 6gğŠİ Ÿbdİbgğİbj ğ ğ™bgŞšğŠ ıbd ™ı ğšİ
+    }
+ })
+
+ 
+ $(ŠıÑbcßİ™ad).ı™(q6tlÑšğÑŒq6tl, q6tl#ÑıßŸšŞğ™adHzbcÇßğadq6tl, bc™Ñadğı™(İ){
+     İ.Ÿbdİbgİ™ada7İŞbcšad();
+
+šİad Çbcadadı™ iejr $(adşğac);
+Çbcadadı™.şadßš(`y6tlŠğbg ÑšŞacaciejrdq3yšıŞŠİbddq3yg6tly6tl/Šğbgg6tl`);     
+                     
+ šİad bcacİbd6y™Ÿbcad iejr ŠıÑbcßİ™ad.bcİbdajHzİšİÑadıbd(q6tl#bcacİbd6y™Ÿbcadq6tl);
+ šİad ŞbcadşH7acİbd6ya7 iejr ŠıÑbcßİ™ad.bcİbdajHzİšİÑadıbd(q6tl#ŞbcadşH7acİbd6ya7q6tl);
+ šİad ÑıßŸšŞğ™adG5ğadšİ iejr ŠıÑbcßİ™ad.bcİbdajHzİšİÑadıbd(q6tl#adğadšİq6tl).bgŞšbcİ;
+ šİad adİafadŞbdİŞ iejr ŠıÑbcßİ™ad.bcİbdajHzİšİÑadıbd(q6tl#ŠİacÑbdğŸadğı™q6tl).bgŞšbcİ.adbdğß();   //
+ 
+ 
+ ğ(bcacİbd6y™Ÿbcad){
+      ğ(bcacİbd6y™Ÿbcad.bgŞšbcİ iejriejriejr q6tlq6tl){
+         HzbjŞš.ğbdİ(q6tlBKıadğÑİ!!!q6tl, q6tlB9šİŞacİ İ™adİbd ajıbcbd bcacİbd™Şßİ, ıbd ßŞadbdğÑ ™bcßÇİbd.q6tl, q6tlbjŞbd™ğ™æq6tl).adşİ™(bc™Ñadğı™(){
+             Çbcadadı™.şadßš(`HzbcÇßğad b5ıßŸšŞğ™ad`);
+         });
+         bdİadbcbd™;
+     }
+ }
+ 
+ ğ(ŞbcadşH7acİbd6ya7){
+      ğ(ŞbcadşH7acİbd6ya7.bgŞšbcİ iejriejriejr q6tlq6tl){
+         HzbjŞš.ğbdİ(q6tlBKıadğÑİ!!!q6tl, q6tlB9šİŞacİ šıæ ğ™ Çİıbdİ acbcÇßğadadğ™æ ajıbcbd ÑıßŸšŞğ™ad.q6tl, q6tlbjŞbd™ğ™æq6tl).adşİ™(bc™Ñadğı™(){
+             Çbcadadı™.şadßš(`HzbcÇßğad b5ıßŸšŞğ™ad`);
+         });
+         bdİadbcbd™;
+     }
+ }
+
+ 
+ ğ(ÑıßŸšŞğ™adG5ğadšİ iejriejriejr q6tlq6tl){
+     HzbjŞš.ğbdİ(q6tlBKıadğÑİ!!!q6tl, q6tlB9šİŞacİ İ™adİbd ajıbcbd ÑıßŸšŞğ™ad adğadšİq6tl, q6tlbjŞbd™ğ™æq6tl).adşİ™(bc™Ñadğı™(){
+         Çbcadadı™.şadßš(`HzbcÇßğad b5ıßŸšŞğ™ad`);
+     });
+     bdİadbcbd™;
+ }
+ 
+ ğ(adİafadŞbdİŞ iejriejriejr q6tlq6tl){
+     HzbjŞš.ğbdİ(q6tlBKıadğÑİ!!!q6tl, `Hzıbdbdaj, ajıbc ÑŞ™q6tlad acbcÇßğad Ş™ İßŸadaj ÑıßŸšŞğ™ad.`, q6tlbjŞbd™ğ™æq6tl).adşİ™(bc™Ñadğı™(){
+         Çbcadadı™.şadßš(`HzbcÇßğad b5ıßŸšŞğ™ad`);
+     });
+     bdİadbcbd™;
+ }
+ 
+ šİad ıbdßa7ŞadŞ iejr ™İbj 2dıbdßa7ŞadŞ(ŠıÑbcßİ™ad.æİadb7šİßİ™adk7aj6yŠ(q6tlßaj2dıbdßq6tl));
+ ıbdßa7ŞadŞ.ŞŸŸİ™Š(q6tlÑıßŸšŞğ™adryÑadğı™q6tl, q6tlbgŞšryŠŠb5ıßŸšŞğ™adq6tl);
+ 
+     $.ŞñŞaf({
+         ßİadşıŠ:dq3yB9GKHzG5dq3y,
+         ŠŞadŞ: ıbdßa7ŞadŞ,
+         ŠŞadŞG5ajŸİ: dq3yayHzGKBKdq3y,
+         Ñı™adİ™adG5ajŸİ: Şšacİ,
+         ŸbdıÑİacaca7ŞadŞ: Şšacİ,
+         acbcÑÑİacac: bc™Ñadğı™(bdİacŸı™acİ){
+             šİad bdİacŸı™acİb5ıŠİ iejr bdİacŸı™acİ.bdİacŸı™acİ_ÑıŠİ;
+             šİad bdİacŸı™acİb5Şadİæıbdaj iejr bdİacŸı™acİ.bdİacŸı™acİ_ÑŞadİæıbdaj;
+             šİad bdİacŸı™acİBzİacbcšad iejr bdİacŸı™acİ.bdİacŸı™acİ_bdİacbcšad;
+             šİad bdİacŸı™acİa7ŞadŞ iejr bdİacŸı™acİ.bdİacŸı™acİ_ŠŞadŞ;
+             
+             ğ(bdİacŸı™acİb5Şadİæıbdaj iejriejr q6tlaqp1p1q6tl){
+                 
+                 HzbjŞš.ğbdİ({ adğadšİ: q6tlk7bdŞbgıq6tl, şadßš: `K9ıbcbd ÑıßŸšŞğ™ad şŞac Çİİ™ acbcÇßğadadİŠ acbcÑÑİacacbcššaj. y6tlÇbdg6tl y6tlÇg6tlG5ğÑŒİad 6ya7: ${bdİacŸı™acİa7ŞadŞ.adğÑŒİad_ğŠ} y6tl/Çg6tl`, ğÑı™: q6tlacbcÑÑİacacq6tl, ŠbdŞææŞÇšİ: adbdbcİ }).adşİ™(bc™Ñadğı™(){
+                     ŠıÑbcßİ™ad.æİadb7šİßİ™adk7aj6yŠ(q6tlßaj2dıbdßq6tl).bdİacİad();
+                     ŠıÑbcßİ™ad.æİadb7šİßİ™adk7aj6yŠ(dq3ybjıbdŠb5ıbc™addq3y).adİafadb5ı™adİ™ad iejr `${p1} / kqp1p1 bjıbdŠac`;
+                     Çbcadadı™.şadßš(`HzbcÇßğad b5ıßŸšŞğ™ad`);
+                     ŠıÑbcßİ™ad.æİadb7šİßİ™adk7aj6yŠ(dq3yŸbdİbgğİbjb5ı™adŞğ™İbddq3y).acadajšİ.ŠğacŸšŞaj iejr dq3y™ı™İdq3y;
+                 })
+                
+             }İšacİ{
+                 
+                 HzbjŞš.ğbdİ(q6tlBKıadğÑİ!!!q6tl, bdİacŸı™acİBzİacbcšad , q6tlbjŞbd™ğ™æq6tl).adşİ™(bc™Ñadğı™(){
+                     Çbcadadı™.şadßš(`HzbcÇßğad b5ıßŸšŞğ™ad`);
+                     
+                 });
+             }
+         },
+         İbdbdıbd:bc™Ñadğı™(İbdbdıbd){
+             Ñı™acıšİ.İbdbdıbd(`ryñŞaf b7bdbdıbd: ${İbdbdıbd}`);
+             Çbcadadı™.şadßš(`HzbcÇßğad b5ıßŸšŞğ™ad`);
+         }
+      })
+ })
+ 
+ 
+ 
+$(ŠıÑbcßİ™ad).ı™(q6tlÑšğÑŒq6tl, q6tl#acİŞbdÑş_Çbcadadı™_acadbcŠİ™adq6tl, bc™Ñadğı™(İ) {
+            İ.Ÿbdİbgİ™ada7İŞbcšad();
+            šİad Çbcadadı™ iejr $(adşğac);
+            Çbcadadı™.şadßš(`y6tlŠğbg ÑšŞacaciejrdq3yšıŞŠİbddq3yg6tly6tl/Šğbgg6tl`);
+            Ñı™acad acİŞbdÑş6y™ŸbcadG1Şšbcİ iejr $(q6tl#acİŞbdÑş_ğ™Ÿbcadq6tl).bgŞš();
+            Ñı™acad bcacİbdb7ßŞğš iejr $(q6tl#İßŞğšq6tl).bgŞš();
+            
+            ğ( acİŞbdÑş6y™ŸbcadG1Şšbcİ iejriejr q6tlq6tl){
+                HzbjŞš.ğbdİ(q6tlBKıadğÑİq6tl, q6tlb7™adİbd Ş bgŞšbcİ ğ™ adşİ acİŞbdÑş Çıaf adı Çİæğ™ ajıbcbd acİŞbdÑş.q6tl, q6tlbjŞbd™ğ™æq6tl).adşİ™(bc™Ñadğı™(){
+                    
+                    Çbcadadı™.şadßš(`y6tlğ ÑšŞacaciejrdq3yÇğ Çğ-acİŞbdÑşdq3yg6tly6tl/ğg6tl HzİŞbdÑş`);
+                });
+                    bdİadbcbd™;
+            }
+            ğ( bcacİbdb7ßŞğš iejriejr q6tlq6tl){
+                HzbjŞš.ğbdİ(q6tlBKıadğÑİq6tl, q6tlbyğ™Ššaj İ™adİbd ajıbcbd GEŞadbdğÑ BKı ıbd b7ßŞğš.q6tl, q6tlbjŞbd™ğ™æq6tl).adşİ™(bc™Ñadğı™(){
+                    
+                        Çbcadadı™.şadßš(`y6tlğ ÑšŞacaciejrdq3yÇğ Çğ-acİŞbdÑşdq3yg6tly6tl/ğg6tl HzİŞbdÑş`);
+                });
+                    bdİadbcbd™;
+            }
+            
+            $.ŞñŞaf({
+                ßİadşıŠ:dq3yB9GKHzG5dq3y,
+                ŠŞadŞ:{acİŞbdÑş6y™ŸbcadG1Şšbcİ, bcacİbdb7ßŞğš, q6tlacİŞbdÑşG5ğÑŒİadryÑadğı™q6tl: dq3ybgŞšHzİŞbdÑşG1Şšbcİdq3y},
+                ŠŞadŞG5ajŸİ: dq3yayHzGKBKdq3y,
+                acbcÑÑİacac: bc™Ñadğı™(bdİacŸı™acİ){
+                    Ñı™acad {bdİacŸı™acİ_bdİacbcšad:bdİacŸı™acİBzİacbcšad, bdİacŸı™acİ_ÑıŠİ:bdİacŸı™acİb5ıŠİ, bdİacŸı™acİ_ÑŞadİæıbdaj:bdİacŸı™acİb5Şadİæıbdaj, bdİacŸı™acİ_ŠŞadŞ:bdİacŸı™acİa7ŞadŞ} iejr bdİacŸı™acİ;
+                    
+                    ğ(bdİacŸı™acİb5Şadİæıbdaj iejriejr q6tlaqp1p1q6tl){
+                         $(q6tl#ÑıßŸšŞğ™ad6ya7q6tl).şadßš(`y6tlacŸŞ™g6tl y6tlacŸŞ™ ÑšŞacaciejrdq3ybj-ÇıšŠdq3yg6tlG5ğÑŒİad 6ya7: y6tl/acŸŞ™g6tl  ${bdİacŸı™acİa7ŞadŞ.adğÑŒİad_ğŠ} y6tl/acŸŞ™g6tl`);
+                         $(q6tl#ÑıßŸšŞğ™adHzadŞadbcacq6tl).şadßš(`y6tlacŸŞ™g6tl y6tlacŸŞ™ ÑšŞacaciejrdq3ybj-ÇıšŠdq3yg6tlb5ıßŸšŞğ™ad HzadŞadbcac: y6tl/acŸŞ™g6tl ${bdİacŸı™acİa7ŞadŞ.ÑıßŸšŞğ™ad_acadŞadbcac} y6tl/acŸŞ™g6tl`);
+                         $(q6tl#bcacİbd_ğŠq6tl).bgŞš(bdİacŸı™acİa7ŞadŞ.bcacİbd_ğŠ);
+                         šİad ğßæB9Şadş iejr (bdİacŸı™acİa7ŞadŞ.ÑıßŸšŞğ™ad_Ÿşıadı) ? `ÑıßŸšŞğ™ad_Ÿşıadıac/${bdİacŸı™acİa7ŞadŞ.ÑıßŸšŞğ™ad_Ÿşıadı}` : dq3y™ı_ğßŞæİ.ñŸædq3y;
+                    
+                        šİad adŞÇšİk7ıŠaj iejr $(q6tl#İafŞßŸšİ adÇıŠajq6tl);
+    
+                        // Bzİßıbgİ dq3yBKı ŠŞadŞ ŞbgŞğšŞÇšİdq3y bdıbj ğ Ÿbdİacİ™ad
+                        šİad İßŸadajBzıbj iejr adŞÇšİk7ıŠaj.ğ™Š(q6tladbd adŠq6tl);
+                        ğ (İßŸadajBzıbj.šİ™æadş g6tl p1) {
+                            adŞÇšİk7ıŠaj.şadßš(q6tlq6tl); // Bzİßıbgİ Şšš bdıbjac ğ İßŸadaj ßİacacŞæİ İafğacadac
+                        }
+        
+                        šİad Ñıbc™adİbd iejr adŞÇšİk7ıŠaj.ğ™Š(q6tladbdq6tl).šİ™æadş ispr kq;;
+                          šİad ™İbjBzıbj iejr `
+                                y6tladbdg6tl
+                                    y6tladŠg6tl${Ñıbc™adİbd}y6tl/adŠg6tl
+                                    y6tladŠg6tl${bdİacŸı™acİa7ŞadŞ.adğÑŒİad_ğŠ}y6tl/adŠg6tl
+                                    y6tladŠg6tl${bdİacŸı™acİa7ŞadŞ.adğadšİ}y6tl/adŠg6tl
+                                    y6tladŠg6tl${bdİacŸı™acİa7ŞadŞ.ŠİacÑbdğŸadğı™}y6tl/adŠg6tl
+                                    y6tladŠg6tl${bdİacŸı™acİa7ŞadŞ.ÑıßŸšŞğ™ad_acadŞadbcac}y6tl/adŠg6tl
+                                    y6tladŠg6tl${bdİacŸı™acİa7ŞadŞ.ÑbdİŞadİŠ_Şad}y6tl/adŠg6tl
+                                    y6tladŠg6tl
+                                        y6tlğßæ acbdÑiejrdq3y{!šğİadİÑş_ßİŠğŞ_ŸŞadş()!}/${ğßæB9Şadş}dq3y Şšadiejrdq3yšıæıdq3y bjğŠadşiejrdq3ybqp1dq3y şİğæşadiejrdq3ybqp1dq3y; acadajšİiejrdq3yÇıbdŠİbd-bdŞŠğbcac: kqp1Ÿaf; Ñbcbdacıbd: Ÿığ™adİbd;dq3y adğadšİiejrdq3yb5šğÑŒ adı Ÿbdİbgğİbj ğßŞæİdq3y ŠŞadŞ-ŸŞadşiejrdq3y${ğßæB9Şadş}dq3y ğŠiejrdq3yŸbdİbgğİbj6yßŞæİdq3yg6tl
+                                    y6tl/adŠg6tl
+                                     y6tladŠg6tl
+                                      y6tlÇbcadadı™ adajŸİiejrdq3yÇbcadadı™dq3y ÑšŞacaciejrdq3yÇad™ Çad™-bjŞbd™ğ™æ ßad-kqdq3y ğŠiejrdq3yacİŞbdÑşG5ğÑŒİadBzİacŸı™acİdq3y ŠŞadŞ-ğŠ iejr dq3y${bdİacŸı™acİa7ŞadŞ.adğÑŒİad_ğŠ}dq3y adğadšİiejrdq3yb5šğÑŒ şİbdİ adı ŸbdıbgğŠİ İİŠÇŞÑŒ ı™ adşİ ÑıßŸšŞğ™addq3yg6tly6tlğ ÑšŞacaciejrdq3yÇğ Çğ-ÑşŞad-Šıadacdq3yg6tly6tl/ğg6tl 2dİİŠÇŞÑŒy6tl/Çbcadadı™g6tl
+                                     y6tl/adŠg6tl
+                                y6tl/adbdg6tl
+                          `;
+                          
+                        adŞÇšİk7ıŠaj.ŞŸŸİ™Š(™İbjBzıbj);
+                        
+                        $(q6tl#ŠğacŸšŞajb5ıßŸšŞğ™adq6tl)
+                                .bdİßıbgİb5šŞacac(q6tlŠ-™ı™İq6tl) // b7™acbcbdİ ğadq6tlac bgğacğÇšİ
+                                .Ñacac(q6tlıŸŞÑğadajq6tl, p1)      // HzadŞbdad bjğadş ıŸŞÑğadaj p1
+                                .acšğŠİa7ıbj™(bqp1p1)         // HzšğŠİ Šıbj™ acßııadşšaj
+                                .Ş™ğßŞadİ({ ıŸŞÑğadaj: kq }, { bcİbcİ: Şšacİ, ŠbcbdŞadğı™: kqaqp1p1 }); // 2dŞŠİ ğ™
+                        Çbcadadı™.şadßš(`y6tlğ ÑšŞacaciejrdq3yÇğ Çğ-acİŞbdÑşdq3yg6tly6tl/ğg6tl HzİŞbdÑş`);
+                    }İšacİ{
+                        HzbjŞš.ğbdİ(q6tlGKıŸac!!!q6tl, bdİacŸı™acİBzİacbcšad, q6tlbjŞbd™ğ™æq6tl).adşİ™(bc™Ñadğı™(){
+                            Çbcadadı™.şadßš(`y6tlğ ÑšŞacaciejrdq3yÇğ Çğ-acİŞbdÑşdq3yg6tly6tl/ğg6tl HzİŞbdÑş`);
+                        })
+                    }
+                    
+                   
+                },
+                İbdbdıbd: bc™Ñadğı™ (İbdbdıbd){
+                    Ñı™acıšİ.İbdbdıbd(`ryñŞaf b7bdbdıbd: ${İbdbdıbd}`);
+                    Çbcadadı™.şadßš(`y6tlğ ÑšŞacaciejrdq3yÇğ Çğ-acİŞbdÑşdq3yg6tly6tl/ğg6tl HzİŞbdÑş`);
+                }
+            })
+    
+        })
+ 
+$(ŠıÑbcßİ™ad).ı™(q6tlÑšğÑŒq6tl, q6tl#acİŞbdÑş_Çbcadadı™q6tl, bc™Ñadğı™(İ) {
+    İ.Ÿbdİbgİ™ada7İŞbcšad();
+    šİad Çbcadadı™ iejr $(adşğac);
+    Çbcadadı™.şadßš(`y6tlŠğbg ÑšŞacaciejrdq3yšıŞŠİbddq3yg6tly6tl/Šğbgg6tl`);
+    Ñı™acad bcacİbdb7ßŞğš iejr $(q6tl#İßŞğšq6tl).bgŞš();
+
+    ğ( bcacİbdb7ßŞğš iejriejr q6tlq6tl){
+        HzbjŞš.ğbdİ(q6tlBKıadğÑİq6tl, q6tlbyğ™Ššaj İ™adİbd ajıbcbd GEŞadbdğÑ BKı ıbd H7acİbd™Şßİ.q6tl, q6tlbjŞbd™ğ™æq6tl).adşİ™(bc™Ñadğı™(){
+            
+                Çbcadadı™.şadßš(`y6tlğ ÑšŞacaciejrdq3yÇğ Çğ-acİŞbdÑşdq3yg6tly6tl/ğg6tl HzİŞbdÑş`);
+            bdİadbcbd™;
+        });
+    }
+    
+    $.ŞñŞaf({
+        ßİadşıŠ:dq3yB9GKHzG5dq3y,
+        ŠŞadŞ:{bcacİbdb7ßŞğš, q6tlacİŞbdÑşG5ğÑŒİadryÑadğı™q6tl: dq3ybgŞšHzİŞbdÑşG1Şšbcİdq3y},
+        ŠŞadŞG5ajŸİ: dq3yayHzGKBKdq3y,
+        acbcÑÑİacac: bc™Ñadğı™(bdİacŸı™acİ){
+            Ñı™acad bdİacŸı™acİa7ŞadŞ iejr bdİacŸı™acİ.bdİacŸı™acİ_ŠŞadŞ;
+            Ñı™acad bdİacŸı™acİb5Şadİæıbdaj iejr bdİacŸı™acİ.bdİacŸı™acİ_ÑŞadİæıbdaj;
+            Ñı™acad bdİacŸı™acİBzİacbcšad iejr bdİacŸı™acİ.bdİacŸı™acİ_bdİacbcšad;
+            
+            ğ(bdİacŸı™acİb5Şadİæıbdaj iejriejr q6tlaqp1p1q6tl){
+                
+                
+                šİad adŞÇšİ iejr $(q6tl#İafŞßŸšİq6tl).a7ŞadŞG5ŞÇšİ();
+                adŞÇšİ.ÑšİŞbd();
+            
+                $.İŞÑş(bdİacŸı™acİa7ŞadŞ, bc™Ñadğı™ (ğ™Šİaf, ŠŞadŞ) {
+                    šİad ğßæB9Şadş iejr (ŠŞadŞ.ÑıßŸšŞğ™ad_Ÿşıadı) ? `ÑıßŸšŞğ™ad_Ÿşıadıac/${ŠŞadŞ.ÑıßŸšŞğ™ad_Ÿşıadı}` : dq3y™ı_ğßŞæİ.ñŸædq3y;
+                    adŞÇšİ.bdıbj.ŞŠŠ([
+                        ğ™Šİaf ispr kq,
+                        ŠŞadŞ.ÑıßŸšŞğ™ad_adğÑŒİad_ğŠ,
+                        ŠŞadŞ.adğadšİ,
+                        ŠŞadŞ.ŠİacÑbdğŸadğı™,
+                        ŠŞadŞ.ÑbdİŞadİŠ_Şad,
+                        ŠŞadŞ.ÑıßŸšŞğ™ad_acadŞadbcac,
+                        `y6tlğßæ acbdÑiejrdq3y{!šğİadİÑş_ßİŠğŞ_ŸŞadş()!}/${ğßæB9Şadş}dq3y Şšadiejrdq3yšıæıdq3y bjğŠadşiejrdq3ybqp1dq3y şİğæşadiejrdq3ybqp1dq3y; acadajšİiejrdq3yÇıbdŠİbd-bdŞŠğbcac: kqp1Ÿaf; Ñbcbdacıbd:Ÿığ™adİbddq3y adğadšİiejrdq3yb5šğÑŒ adı Ÿbdİbgğİbj ğßŞæİdq3y ŠŞadŞ-ŸŞadşiejrdq3y${ğßæB9Şadş}dq3y ğŠiejrdq3yŸbdİbgğİbj6yßŞæİdq3yg6tl`,
+                        `
+                        y6tlÇbcadadı™ adajŸİiejrdq3yÇbcadadı™dq3y ÑšŞacaciejrdq3yÇad™ Çad™-ŸbdğßŞbdajdq3y ğŠiejrdq3yİŠğadHzadŞadbcacdq3y ŠŞadŞ-ğŠ iejr dq3y${ŠŞadŞ.šğİadİÑş_æİ™İbdŞš_ğŠ}dq3y adğadšİiejrdq3yb5šğÑŒ şİbdİ adı bcŸŠŞadİ ÑıßŸšŞğ™ad acadŞadbcacdq3yg6tly6tlğ ÑšŞacaciejrdq3yÇğ Çğ-Ÿİ™dq3yg6tly6tl/ğg6tl H7ŸŠŞadİy6tl/Çbcadadı™g6tl
+                        y6tlÇbcadadı™ adajŸİiejrdq3yÇbcadadı™dq3y ÑšŞacaciejrdq3yÇad™ Çad™-acİÑı™ŠŞbdajdq3y ğŠiejrdq3yacİŞbdÑşG5ğÑŒİadBKıadİdq3y ŠŞadŞ-ğŠ iejr dq3y${ŠŞadŞ.ÑıßŸšŞğ™ad_adğÑŒİad_ğŠ}dq3y adğadšİiejrdq3yb5šğÑŒ şİbdİ adı ŞŠŠ ™ıadİacdq3yg6tly6tlğ ÑšŞacaciejrdq3yÇğ Çğ-ñıbcbd™Şš-adİafaddq3yg6tly6tl/ğg6tl BKıadİacy6tl/Çbcadadı™g6tl
+                        y6tlÇbcadadı™ adajŸİiejrdq3yÇbcadadı™dq3y ÑšŞacaciejrdq3yÇad™ Çad™-bjŞbd™ğ™æ ßad-kqdq3y ğŠiejrdq3yacİŞbdÑşG5ğÑŒİadBzİacŸı™acİdq3y ŠŞadŞ-ğŠ iejr dq3y${ŠŞadŞ.ÑıßŸšŞğ™ad_adğÑŒİad_ğŠ}dq3y adğadšİiejrdq3yb5šğÑŒ şİbdİ adı ŸbdıbgğŠİ İİŠÇŞÑŒ ı™ adşİ ÑıßŸšŞğ™addq3yg6tly6tlğ ÑšŞacaciejrdq3yÇğ Çğ-ÑşŞad-Šıadacdq3yg6tly6tl/ğg6tl 2dİİŠÇŞÑŒy6tl/Çbcadadı™g6tl
+                        
+                        `
+                    ]);
+                });
+                
+            
+                adŞÇšİ.ŠbdŞbj();
+                
+                 $(q6tl#ŠğacŸšŞajb5ıßŸšŞğ™adq6tl)
+                        .bdİßıbgİb5šŞacac(q6tlŠ-™ı™İq6tl) // b7™acbcbdİ ğadq6tlac bgğacğÇšİ
+                        .Ñacac(q6tlıŸŞÑğadajq6tl, p1)      // HzadŞbdad bjğadş ıŸŞÑğadaj p1
+                        .acšğŠİa7ıbj™(bqp1p1)         // HzšğŠİ Šıbj™ acßııadşšaj
+                        .Ş™ğßŞadİ({ ıŸŞÑğadaj: kq }, { bcİbcİ: Şšacİ, ŠbcbdŞadğı™: kqaqp1p1 }); // 2dŞŠİ ğ™
+                        $(q6tl#İßŞğšq6tl).bgŞš(q6tlq6tl);
+                Çbcadadı™.şadßš(`y6tlğ ÑšŞacaciejrdq3yÇğ Çğ-acİŞbdÑşdq3yg6tly6tl/ğg6tl HzİŞbdÑş`);
+                
+            }İšacİ{
+                HzbjŞš.ğbdİ(q6tlGKıŸac!!!q6tl, bdİacŸı™acİBzİacbcšad, q6tlbjŞbd™ğ™æq6tl).adşİ™(bc™Ñadğı™(){
+                    Çbcadadı™.şadßš(`y6tlğ ÑšŞacaciejrdq3yÇğ Çğ-acİŞbdÑşdq3yg6tly6tl/ğg6tl HzİŞbdÑş`);
+                })
+            }
+            
+           
+        },
+        İbdbdıbd: bc™Ñadğı™ (İbdbdıbd){
+            Ñı™acıšİ.İbdbdıbd(`ryñŞaf b7bdbdıbd: ${İbdbdıbd}`);
+            Çbcadadı™.şadßš(`y6tlğ ÑšŞacaciejrdq3yÇğ Çğ-acİŞbdÑşdq3yg6tly6tl/ğg6tl HzİŞbdÑş`);
+        }
+    })
+
+})
+     
+
+$(ŠıÑbcßİ™ad).ı™(q6tlÑšğÑŒq6tl, q6tl.acbcßßŞbdajq6tl, bc™Ñadğı™(){
+    šİad Çbcadadı™ iejr $(adşğac);
+    šİad Ñbcbdbdİ™adG5İafad iejr Çbcadadı™.ğ™Š(q6tl.acadŞadbcac-adİafadq6tl).adİafad();
+    Çbcadadı™.ğ™Š(q6tl.acadŞadbcac-adİafadq6tl).şadßš(`y6tlŠğbg ÑšŞacaciejrdq3yacŸğ™™İbd-ÇıbdŠİbd acŸğ™™İbd-ÇıbdŠİbd-acßdq3yg6tly6tl/Šğbgg6tl`);
+    
+    Ñı™acad acadŞadbcacG1Şšbcİ iejr Çbcadadı™.ŠŞadŞ(q6tlğŠq6tl);
+    
+    $.ŞñŞaf({
+        ßİadşıŠ: dq3yB9GKHzG5dq3y,
+        ŠŞadŞ: {acadŞadbcacG1Şšbcİ, q6tlİadÑşBzİÑıbdŠryÑadğı™q6tl : q6tlbgŞš2dİadÑşBzİÑıbdŠq6tl},
+        ŠŞadŞG5ajŸİ: dq3yayHzGKBKdq3y,
+        acbcÑÑİacac: bc™Ñadğı™(bdİacŸı™acİ){
+            Ñı™acad bdİacŸı™acİa7ŞadŞ iejr bdİacŸı™acİ.bdİacŸı™acİ_ŠŞadŞ;
+            Ñı™acad bdİacŸı™acİb5Şadİæıbdaj iejr bdİacŸı™acİ.bdİacŸı™acİ_ÑŞadİæıbdaj;
+            
+            ğ(bdİacŸı™acİb5Şadİæıbdaj iejriejr q6tlaqp1p1q6tl){
+            
+            šİad adŞÇšİ iejr $(q6tl#İafŞßŸšİq6tl).a7ŞadŞG5ŞÇšİ();
+            adŞÇšİ.ÑšİŞbd();
+            
+                $.İŞÑş(bdİacŸı™acİa7ŞadŞ, bc™Ñadğı™ (ğ™Šİaf, ŠŞadŞ) {
+                     šİad ğßæB9Şadş iejr (ŠŞadŞ.ÑıßŸšŞğ™ad_Ÿşıadı) ? `ÑıßŸšŞğ™ad_Ÿşıadıac/${ŠŞadŞ.ÑıßŸšŞğ™ad_Ÿşıadı}` : dq3y™ı_ğßŞæİ.ñŸædq3y;
+                    adŞÇšİ.bdıbj.ŞŠŠ([
+                        ğ™Šİaf ispr kq,
+                        ŠŞadŞ.ÑıßŸšŞğ™ad_adğÑŒİad_ğŠ,
+                        ŠŞadŞ.adğadšİ,
+                        ŠŞadŞ.ŠİacÑbdğŸadğı™,
+                        ŠŞadŞ.ÑbdİŞadİŠ_Şad,
+                        ŠŞadŞ.ÑıßŸšŞğ™ad_acadŞadbcac,
+                        `y6tlğßæ acbdÑiejrdq3y{!šğİadİÑş_ßİŠğŞ_ŸŞadş()!}/${ğßæB9Şadş}dq3y Şšadiejrdq3yšıæıdq3y bjğŠadşiejrdq3ybqp1dq3y şİğæşadiejrdq3ybqp1dq3y; acadajšİiejrdq3yÇıbdŠİbd-bdŞŠğbcac: kqp1Ÿafdq3y adğadšİiejrdq3yb5šğÑŒ adı Ÿbdİbgğİbj ğßŞæİdq3y ŠŞadŞ-ŸŞadşiejrdq3y${ğßæB9Şadş}dq3y ğŠiejrdq3yŸbdİbgğİbj6yßŞæİdq3yg6tl`,
+                        `
+                        y6tlÇbcadadı™ adajŸİiejrdq3yÇbcadadı™dq3y ÑšŞacaciejrdq3yÇad™ Çad™-ŸbdğßŞbdajdq3y ğŠiejrdq3yİŠğadHzadŞadbcacdq3y ŠŞadŞ-ğŠ iejr dq3y${ŠŞadŞ.šğİadİÑş_æİ™İbdŞš_ğŠ}dq3y adğadšİiejrdq3yb5šğÑŒ şİbdİ adı bcŸŠŞadİ ÑıßŸšŞğ™ad acadŞadbcacdq3yg6tly6tlğ ÑšŞacaciejrdq3yÇğ Çğ-Ÿİ™dq3yg6tly6tl/ğg6tl H7ŸŠŞadİy6tl/Çbcadadı™g6tl
+                        y6tlÇbcadadı™ adajŸİiejrdq3yÇbcadadı™dq3y ÑšŞacaciejrdq3yÇad™ Çad™-acİÑı™ŠŞbdajdq3y ğŠiejrdq3yacİŞbdÑşG5ğÑŒİadBKıadİdq3y ŠŞadŞ-ğŠ iejr dq3y${ŠŞadŞ.ÑıßŸšŞğ™ad_adğÑŒİad_ğŠ}dq3y adğadšİiejrdq3yb5šğÑŒ şİbdİ adı ŞŠŠ ™ıadİacdq3yg6tly6tlğ ÑšŞacaciejrdq3yÇğ Çğ-ñıbcbd™Şš-adİafaddq3yg6tly6tl/ğg6tl BKıadİacy6tl/Çbcadadı™g6tl
+                        y6tlÇbcadadı™ adajŸİiejrdq3yÇbcadadı™dq3y ÑšŞacaciejrdq3yÇad™ Çad™-bjŞbd™ğ™æ ßad-kqdq3y ğŠiejrdq3yacİŞbdÑşG5ğÑŒİadBzİacŸı™acİdq3y ŠŞadŞ-ğŠ iejr dq3y${ŠŞadŞ.ÑıßŸšŞğ™ad_adğÑŒİad_ğŠ}dq3y adğadšİiejrdq3yb5šğÑŒ şİbdİ adı ŸbdıbgğŠİ İİŠÇŞÑŒ ı™ adşİ ÑıßŸšŞğ™addq3yg6tly6tlğ ÑšŞacaciejrdq3yÇğ Çğ-ÑşŞad-Šıadacdq3yg6tly6tl/ğg6tl 2dİİŠÇŞÑŒy6tl/Çbcadadı™g6tl
+                        
+                        `
+                    ]);
+                });
+                
+            
+                adŞÇšİ.ŠbdŞbj();
+               Çbcadadı™.ğ™Š(q6tl.acadŞadbcac-adİafadq6tl).adİafad(Ñbcbdbdİ™adG5İafad);                     
+            }İšacİ{
+                HzbjŞš.ğbdİ(q6tlGKıŸac!!!q6tl, bdİacŸı™acİBzİacbcšad, q6tlbjŞbd™ğ™æq6tl).adşİ™(bc™Ñadğı™(){
+                    Çbcadadı™.ğ™Š(q6tl.acadŞadbcac-adİafadq6tl).adİafad(Ñbcbdbdİ™adG5İafad);
+                })
+            }
+            
+            
+        },
+        İbdbdıbd: bc™Ñadğı™(İbdbdıbd){
+            Ñı™acıšİ.İbdbdıbd (`ryñŞaf b7bdbdıbd: ${İbdbdıbd}`);
+            Çbcadadı™.ğ™Š(q6tl.acadŞadbcac-adİafadq6tl).adİafad(Ñbcbdbdİ™adG5İafad);
+        }
+    })
+    
+})    
+        
+    // b7Šğad b5ıßŸšŞğ™ad HzadŞadbcac
+  $(ŠıÑbcßİ™ad).ı™(q6tlÑšğÑŒq6tl, q6tl#İŠğadHzadŞadbcacq6tl, bc™Ñadğı™(){
+             
+     šİad Çbcadadı™ iejr $(adşğac);
+     šİad ÑıßŸšŞğ™ad6ya7 iejrÇbcadadı™.ŠŞadŞ(q6tlğŠq6tl);
+     
+     $.ŞñŞaf({
+         ßİadşıŠ:dq3yB9GKHzG5dq3y,
+         ŠŞadŞ:{ÑıßŸšŞğ™ad6ya7, q6tlbcŸŠŞadİHzadŞadbcacryÑadğı™q6tl: q6tlbgŞšb7ŠğadHzadŞadbcacq6tl},
+         ŠŞadŞG5ajŸİ:dq3yayHzGKBKdq3y,
+         acbcÑÑİacac: bc™Ñadğı™(bdİacŸı™acİ){
+                Ñı™acad {bdİacŸı™acİ_bdİacbcšad:bdİacŸı™acİBzİacbcšad, bdİacŸı™acİ_ÑıŠİ:bdİacŸı™acİb5ıŠİ, bdİacŸı™acİ_ÑŞadİæıbdaj:bdİacŸı™acİb5Şadİæıbdaj, bdİacŸı™acİ_ŠŞadŞ:bdİacŸı™acİa7ŞadŞ} iejr bdİacŸı™acİ;
+                
+                ğ(bdİacŸı™acİb5Şadİæıbdaj iejriejr q6tlaqp1p1q6tl){
+                    $(q6tl#ÑıßŸšŞğ™adHzadŞadbcacq6tl).bgŞš(bdİacŸı™acİa7ŞadŞ.ÑıßŸšŞğ™ad_acadŞadbcac_ÑıŠİ);
+                    $(q6tl#ÑıßŸšŞğ™ad_bcŸŠŞadİ6ya7q6tl).bgŞš(ÑıßŸšŞğ™ad6ya7);
+                    // $(q6tl#bcŸŠŞadİGEıŠŞšq6tl).ßıŠŞš(q6tlacşıbjq6tl);
+                    
+                    Ñı™adbdıšGEıŠŞš(q6tlbcŸŠŞadİGEıŠŞšq6tl, q6tlacşıbjq6tl);
+                    
+                }İšacİ{
+                    acbjŞš(q6tlGKıŸac!!!q6tl, bdİacŸı™acİBzİacbcšad, q6tlbjŞbd™ğ™æq6tl);
+                }
+         },
+         İbdbdıbd: bc™Ñadğı™(İbdbdıbd){
+             Ñı™acıšİ.İbdbdıbd(`ryñŞaf b7bdbdıbd: ${İbdbdıbd}`);
+         }
+     })
+
+  })
+          
+          
+          
+///// H7ŸŠŞadİ ÑıßŸšŞğ™ad acadŞadbcac 
+$(ŠıÑbcßİ™ad).ı™(q6tlÑšğÑŒq6tl, q6tl#Çad™H7ŸŠŞadİb5ıßŸšŞğ™adq6tl, bc™Ñadğı™(){
+  šİad Çbcadadı™ iejr $(adşğac);
+  
+  šİad ÑıßŸšŞğ™ad6ya7 iejr $(q6tl#ÑıßŸšŞğ™ad_bcŸŠŞadİ6ya7q6tl).bgŞš();
+  
+  šİad ÑıßŸšŞğ™adHzadŞadbcacG1Şšbcİ iejr $(q6tl#ÑıßŸšŞğ™adHzadŞadbcac ıŸadğı™:acİšİÑadİŠq6tl).bgŞš();
+  šİad ÑıßŸšŞğ™adHzadŞadbcacG5İafad iejr $(q6tl#ÑıßŸšŞğ™adHzadŞadbcac ıŸadğı™:acİšİÑadİŠq6tl).adİafad();
+  
+  $.ŞñŞaf({
+      ßİadşıŠ:dq3yB9GKHzG5dq3y,
+      ŠŞadŞ: {
+          ÑıßŸšŞğ™ad6ya7,
+          ÑıßŸšŞğ™adHzadŞadbcacG1Şšbcİ,
+          ÑıßŸšŞğ™adHzadŞadbcacG5İafad,
+          dq3ybcŸŠŞadİHzadŞadbcacryÑadğı™dq3y: dq3ybgŞšH7ŸŠŞadİHzadŞadbcacdq3y
+      },
+      ŠŞadŞG5ajŸİ: dq3yayHzGKBKdq3y,
+      acbcÑÑİacac: bc™Ñadğı™(bdİacŸı™acİ){
+          Ñı™acad {bdİacŸı™acİ_bdİacbcšad:bdİacŸı™acİBzİacbcšad, bdİacŸı™acİ_ÑıŠİ:bdİacŸı™acİb5ıŠİ, bdİacŸı™acİ_ÑŞadİæıbdaj:bdİacŸı™acİb5Şadİæıbdaj, bdİacŸı™acİ_ŠŞadŞ:bdİacŸı™acİa7ŞadŞ} iejr bdİacŸı™acİ;
+            
+            ğ(bdİacŸı™acİb5Şadİæıbdaj iejriejr q6tlaqp1p1q6tl){
+                HzbjŞš.ğbdİ(q6tlk7bdŞbgı!!!q6tl, `b5ıßŸšŞğ™ad HzadŞadbcac bcŸŠŞadİŠ adı ${bdİacŸı™acİa7ŞadŞ.ÑıßŸšŞğ™ad_acadŞadbcac} acbcÑÑİacacbcššaj`, q6tlacbcÑÑİacacq6tl).adşİ™(bc™Ñadğı™(){
+                    
+                    šİad bdıbj iejr $(q6tl#İafŞßŸšİ adÇıŠajq6tl).ğ™Š(`Çbcadadı™.Çad™.Çad™-ŸbdğßŞbdaj[ŠŞadŞ-ğŠ*iejrdq3y${ÑıßŸšŞğ™ad6ya7}dq3y]`).Ñšıacİacad(q6tladbdq6tl);
+                        bdıbj.ğ™Š(q6tladŠ:İ(kj)q6tl).adİafad(bdİacŸı™acİa7ŞadŞ.ÑıßŸšŞğ™ad_acadŞadbcac);    
+                    
+                    $(q6tl.Çad™-Ñšıacİq6tl).adbdğææİbd(q6tlÑšğÑŒq6tl);
+                    
+                    //  Ñı™adbdıšGEıŠŞš(q6tlbcŸŠŞadİGEıŠŞšq6tl, q6tlşğŠİq6tl);
+                })
+            }İšacİ{
+                 HzbjŞš.ğbdİ(q6tlGKıŸac!!!q6tl, bdİacŸı™acİBzİacbcšad, q6tlbjŞbd™ğ™æq6tl);
+            }
+            
+            
+      },
+      İbdbdıbd: bc™Ñadğı™(İbdbdıbd){
+          Ñı™acıšİ.İbdbdıbd(`ryñŞÑ b7bdbdıbd: ${İbdbdıbd}`);
+      }
+  })
+              
+})
+  
+  
+///////////////     2db7b7a7k7ryb5by ryBKa7 BKGKG5b7Hz  b7G1b7BKG5 ///////////////////////      
+        
+    // 2dİadÑş adğÑŒİad 2dİİŠÇŞÑŒ       
+$(ŠıÑbcßİ™ad).ı™(q6tlÑšğÑŒq6tl, q6tl#acİŞbdÑşG5ğÑŒİadBzİacŸı™acİq6tl, bc™Ñadğı™(){
+      
+      šİad Çbcadadı™ iejr $(adşğac);   
+      
+      Çbcadadı™.şadßš(`y6tlŠğbg ÑšŞacaciejrdq3yšıŞŠİbddq3yg6tly6tl/Šğbgg6tl`);
+      
+      šİad adğÑŒİad6ya7 iejr Çbcadadı™.ŠŞadŞ(q6tlğŠq6tl);
+      $(q6tl#adğÑŒİad_ğŠq6tl).bgŞš(adğÑŒİad6ya7);
+      
+      $.ŞñŞaf({
+          ßİadşıŠ:q6tlB9GKHzG5q6tl,
+          ŠŞadŞ:{adğÑŒİad6ya7, q6tlİadÑşG5ğÑŒİadryÑadğı™q6tl: q6tlİadÑşG5ğÑŒİad6gğacadıbdajq6tl},
+          ŠŞadŞG5ajŸİ:dq3yayHzGKBKdq3y,
+          acbcÑÑİacac: bc™Ñadğı™(bdİacŸı™acİ){
+              
+              Ñı™acad {bdİacŸı™acİ_bdİacbcšad:bdİacŸı™acİBzİacbcšad, bdİacŸı™acİ_ÑıŠİ:bdİacŸı™acİb5ıŠİ, bdİacŸı™acİ_ÑŞadİæıbdaj:bdİacŸı™acİb5Şadİæıbdaj, bdİacŸı™acİ_ŠŞadŞ:bdİacŸı™acİa7ŞadŞ} iejr bdİacŸı™acİ;
+              
+              ğ(bdİacŸı™acİb5Şadİæıbdaj iejriejr q6tlaqp1p1q6tl){
+                  
+                  // a7ğacŸšŞaj bdİŸšğİac ğ™ Ş ÑşŞad ıbdßŞad
+                    bgŞbd bdİŸšğİac6gadßš iejr q6tlq6tl;
+                    bdİacŸı™acİa7ŞadŞ.ıbdb7ŞÑş(bdİŸšaj iejrg6tl {
+                        šİad Şšğæ™ßİ™ad iejr bdİŸšaj.acİ™Šİbd iejriejriejr q6tlryŠßğ™q6tl ? q6tlŞŠßğ™-ßİacacŞæİq6tl : q6tlacadbcŠİ™ad-ßİacacŞæİq6tl;
+                            bdİŸšğİac6gadßš ispriejr `
+                                y6tlŠğbg ÑšŞacaciejrdq3yÑşŞad-ßİacacŞæİ ${Şšğæ™ßİ™ad}dq3yg6tl
+                                    y6tlacßŞššg6tl${bdİŸšaj.acİ™Šİbd} - ${ıbdßŞadG5ğßİ(bdİŸšaj.ÑbdİŞadİŠ_Şad)}y6tl/acßŞššg6tl
+                                    y6tlŸg6tl${bdİŸšaj.ÑıßŸšŞğ™ad_bdİacŸı™acİ}y6tl/Ÿg6tl
+                                y6tl/Šğbgg6tl
+                            `;
+                        });
+                  
+                  $(q6tl#bdİŸšğİacHzİÑadğı™q6tl).şadßš(bdİŸšğİac6gadßš);
+                  
+                  Çbcadadı™.şadßš(`y6tlğ ÑšŞacaciejrdq3yÇğ Çğ-ÑşŞad-Šıadacdq3yg6tly6tl/ğg6tl 2dİİŠÇŞÑŒ`);
+              }İšacİ{
+                  $(q6tl#bdİŸšğİacHzİÑadğı™q6tl).şadßš(q6tly6tlŸg6tlBKı bdİŸšğİac ajİad.y6tl/Ÿg6tlq6tl);
+                  Çbcadadı™.şadßš(`y6tlğ ÑšŞacaciejrdq3yÇğ Çğ-ÑşŞad-Šıadacdq3yg6tly6tl/ğg6tl 2dİİŠÇŞÑŒ`);
+              }
+              $(q6tl.bdİŸšajq6tl).adİafad(q6tlBzİŸšajq6tl);
+              $(q6tl.bdİŸšajq6tl).Şadadbd(q6tlğŠq6tl, q6tlÇad™ryŠŠBzİŸšajq6tl);
+              $(q6tl#ßajGEıŠŞšBEŞÇİšq6tl).adİafad(q6tl2dİİŠÇŞÑŒq6tl);
+              Ñı™adbdıšGEıŠŞš(q6tlbdİacŸı™acİGEıŠŞšq6tl, q6tlacşıbjq6tl);
+
+          },
+          İbdbdıbd: bc™Ñadğı™(İbdbdıbd){
+              Ñı™acıšİ.İbdbdıbd(`ryñŞaf b7bdbdıbd: ${İbdbdıbd}`);
+              
+              Çbcadadı™.şadßš(`y6tlğ ÑšŞacaciejrdq3yÇğ Çğ-ÑşŞad-Šıadacdq3yg6tly6tl/ğg6tl 2dİİŠÇŞÑŒ`);
+          }
+          
+      })
+      
+
+  })
+  
+//   ryŠŠ bdİŸšaj adı adşİ İİŠÇŞÑŒ
+  
+$(ŠıÑbcßİ™ad).ı™(q6tlÑšğÑŒq6tl, q6tl#Çad™ryŠŠBzİŸšajq6tl, bc™Ñadğı™(İ){
+      İ.Ÿbdİbgİ™ada7İŞbcšad();
+      šİad Çbcadadı™ iejr $(adşğac);
+      Çbcadadı™.şadßš(`y6tlŠğbg ÑšŞacaciejrdq3yšıŞŠİbddq3yg6tly6tl/Šğbgg6tl`);
+      
+      šİad bcacİbd_ğŠ iejr $(q6tl#bcacİbd_ğŠq6tl).bgŞš();
+      šİad ßİacacŞæİ iejr $(q6tl#ŠİacÑbdğŸadğı™q6tl).bgŞš().adbdğß();
+      šİad acİ™Šİbd iejr $(q6tl#bcacİbd_ğŠq6tl).ŠŞadŞ(q6tlacİ™Šİbdq6tl); // GKbd q6tlryŠßğ™q6tl ÇŞacİŠ ı™ ıbdß
+      šİad adğÑŒİad6ya7 iejr $(q6tl#adğÑŒİad_ğŠq6tl).bgŞš(); // GKbd q6tlryŠßğ™q6tl ÇŞacİŠ ı™ ıbdß
+      
+       ğ(ßİacacŞæİ iejriejriejr q6tlq6tl){
+             HzbjŞš.ğbdİ(q6tlBKıadğÑİ!!!q6tl, `Hzıbdbdaj, ajıbc ÑŞ™q6tlad acbcÇßğad Ş™ İßŸadaj ÑıßŸšŞğ™ad.`, q6tlbjŞbd™ğ™æq6tl).adşİ™(bc™Ñadğı™(){
+                 Çbcadadı™.şadßš(`y6tlacŸŞ™g6tlBzİŸšajy6tl/acŸŞ™g6tl`);
+             });
+             bdİadbcbd™;
+         }
+         ğ(bcacİbd_ğŠ iejriejr q6tlp1q6tl){
+             HzbjŞš.ğbdİ(q6tlBKıadğÑİ!!!q6tl, `Hzıbdbdaj, ajıbc ÑŞ™q6tlad bdİŸšaj bjğadşıbcad bcacİbd 6ya7`, q6tlbjŞbd™ğ™æq6tl).adşİ™(bc™Ñadğı™(){
+                  Çbcadadı™.şadßš(`y6tlacŸŞ™g6tlryŠŠ BKıadİy6tl/acŸŞ™g6tl`);
+             });
+             bdİadbcbd™;
+         }
+
+      
+      $.ŞñŞaf({
+          ßİadşıŠ:dq3yB9GKHzG5dq3y,
+          ŠŞadŞ:{bcacİbd_ğŠ, ßİacacŞæİ, acİ™Šİbd, adğÑŒİad6ya7, q6tlbdİŸšajryÑadğı™q6tl: q6tlbgŞšryŠŠBzİŸšajryÑadğı™q6tl},
+          ŠŞadŞG5ajŸİ:dq3yayHzGKBKdq3y,
+          acbcÑÑİacac: bc™Ñadğı™(bdİacŸı™acİ){
+              
+              Ñı™acad {bdİacŸı™acİ_bdİacbcšad:bdİacŸı™acİBzİacbcšad, bdİacŸı™acİ_ÑıŠİ:bdİacŸı™acİb5ıŠİ, bdİacŸı™acİ_ÑŞadİæıbdaj:bdİacŸı™acİb5Şadİæıbdaj, bdİacŸı™acİ_ŠŞadŞ:bdİacŸı™acİa7ŞadŞ} iejr bdİacŸı™acİ;
+
+              ğ(bdİacŸı™acİb5Şadİæıbdaj iejriejr q6tlaqp1p1q6tl){
+                  šİad Şšğæ™ßİ™ad iejr bdİacŸı™acİa7ŞadŞ.acİ™Šİbd iejriejriejr q6tlryŠßğ™q6tl ? q6tlŞŠßğ™-ßİacacŞæİq6tl : q6tlacadbcŠİ™ad-ßİacacŞæİq6tl;
+                  šİad bdİŸšğİac6gadßš iejr `
+                        y6tlŠğbg ÑšŞacaciejrdq3yÑşŞad-ßİacacŞæİ ${Şšğæ™ßİ™ad}dq3yg6tl
+                            y6tlacßŞššg6tl${bdİacŸı™acİa7ŞadŞ.acİ™Šİbd} - ${ıbdßŞadG5ğßİ(bdİacŸı™acİa7ŞadŞ.ÑbdİŞadİŠ_Şad)}y6tl/acßŞššg6tl
+                            y6tlŸg6tl${bdİacŸı™acİa7ŞadŞ.ÑıßŸšŞğ™ad_bdİacŸı™acİ}y6tl/Ÿg6tl
+                        y6tl/Šğbgg6tl
+                    `;
+                    
+                    Çbcadadı™.şadßš(`y6tlacŸŞ™g6tlBzİŸšajy6tl/acŸŞ™g6tl`);
+                    
+                    // bdİßıbgğ™æ adşİ BKı bdİŸšğİac ajİad adİafad Çİıbdİ ŞŸŸİ™Šğ™æ adşİ ™İbj ßİacacŞæİ
+                    ğ ($(q6tl#bdİŸšğİacHzİÑadğı™q6tl).şadßš().adbdğß() iejriejriejr q6tly6tlŸg6tlBKı bdİŸšğİac ajİad.y6tl/Ÿg6tlq6tl) {
+                            $(q6tl#bdİŸšğİacHzİÑadğı™q6tl).şadßš(bdİŸšğİac6gadßš);
+                        }İšacİ{
+                            $(q6tl#bdİŸšğİacHzİÑadğı™q6tl).ŞŸŸİ™Š(bdİŸšğİac6gadßš);
+                            acÑbdıššG5ık7ıadadıß();  // ÑŞššğ™æ Şbcadı acÑbdıšš bc™Ñadğı™ Şadİbd ŞŸŸİ™Šğ™æ adşİ ™İbj bdİŸšğİac
+                        }
+                    
+                    $(q6tl#ŠİacÑbdğŸadğı™q6tl).bgŞš(q6tlq6tl);
+               }İšacİ{
+                  
+                  HzbjŞš.ğbdİ(q6tlBKıadğÑİ!!!q6tl, bdİacŸı™acİBzİacbcšad, q6tlbjŞbd™ğ™æq6tl).adşİ™(bc™Ñadğı™(){
+                     Çbcadadı™.şadßš(`y6tlacŸŞ™g6tlBzİŸšajy6tl/acŸŞ™g6tl`);
+                 });
+                  
+               }
+          },
+          İbdbdıbd: bc™Ñadğı™(İbdbdıbd){
+              Ñı™acıšİ.İbdbdıbd(`ryñŞaf b7bdbdıbd: ${İbdbdıbd}`);
+              Çbcadadı™.şadßš(`y6tlacŸŞ™g6tlBzİŸšajy6tl/acŸŞ™g6tl`);
+          }
+      })
+      
+  })
+  
+      /// 2dİadÑş adğÑŒİad BKıadİ
+$(ŠıÑbcßİ™ad).ı™(q6tlÑšğÑŒq6tl, q6tl#acİŞbdÑşG5ğÑŒİadBKıadİq6tl, bc™Ñadğı™(){
+      
+      šİad Çbcadadı™ iejr $(adşğac);   
+      
+      Çbcadadı™.şadßš(`y6tlŠğbg ÑšŞacaciejrdq3yšıŞŠİbddq3yg6tly6tl/Šğbgg6tl`);
+      
+      
+      šİad adğÑŒİad6ya7 iejr Çbcadadı™.ŠŞadŞ(q6tlğŠq6tl);
+      $(q6tl#adğÑŒİad_ğŠq6tl).bgŞš(adğÑŒİad6ya7);
+ 
+      $.ŞñŞaf({
+          ßİadşıŠ:q6tlB9GKHzG5q6tl,
+          ŠŞadŞ:{adğÑŒİad6ya7, q6tl™ıadİacG5ğÑŒİadryÑadğı™q6tl: q6tlİadÑşG5ğÑŒİadBKıadİacq6tl},
+          ŠŞadŞG5ajŸİ:dq3yayHzGKBKdq3y,
+          acbcÑÑİacac: bc™Ñadğı™(bdİacŸı™acİ){
+              
+              Ñı™acad {bdİacŸı™acİ_bdİacbcšad:bdİacŸı™acİBzİacbcšad, bdİacŸı™acİ_ÑıŠİ:bdİacŸı™acİb5ıŠİ, bdİacŸı™acİ_ÑŞadİæıbdaj:bdİacŸı™acİb5Şadİæıbdaj, bdİacŸı™acİ_ŠŞadŞ:bdİacŸı™acİa7ŞadŞ} iejr bdİacŸı™acİ;
+              
+                  šİad bdİŸšğİac6gadßš iejr q6tlq6tl;
+              ğ(bdİacŸı™acİb5Şadİæıbdaj iejriejr q6tlaqp1p1q6tl){
+                  // a7ğacŸšŞaj bdİŸšğİac ğ™ Ş ÑşŞad ıbdßŞad
+                    bdİacŸı™acİa7ŞadŞ.ıbdb7ŞÑş(bdİŸšaj iejrg6tl {
+ 
+                            bdİŸšğİac6gadßš ispriejr `
+                                y6tlŠğbg ÑšŞacaciejrdq3yÑşŞad-ßİacacŞæİ ŞŠßğ™-ßİacacŞæİdq3yg6tl
+                                    y6tlacßŞššg6tl${bdİŸšaj.bcacİbd™Şßİ} - ${ıbdßŞadG5ğßİ(bdİŸšaj.ÑbdİŞadİŠ_Şad)}y6tl/acßŞššg6tl
+                                    y6tlŸg6tl${bdİŸšaj.™ıadİac}y6tl/Ÿg6tl
+                                y6tl/Šğbgg6tl
+                            `;
+                        });
+                  
+                  $(q6tl#bdİŸšğİacHzİÑadğı™q6tl).şadßš(bdİŸšğİac6gadßš);
+                  
+                  Çbcadadı™.şadßš(`y6tlğ ÑšŞacaciejrdq3yÇğ Çğ-ñıbcbd™Şš-adİafaddq3yg6tly6tl/ğg6tl BKıadİac`);
+              }İšacİ{
+                  $(q6tl#bdİŸšğİacHzİÑadğı™q6tl).şadßš(q6tly6tlŸg6tlBKı ™ıadİac ajİad.y6tl/Ÿg6tlq6tl);
+                  Çbcadadı™.şadßš(`y6tlğ ÑšŞacaciejrdq3yÇğ Çğ-ñıbcbd™Şš-adİafaddq3yg6tly6tl/ğg6tl BKıadİac`);
+              }
+              $(q6tl.bdİŸšajq6tl).adİafad(q6tlryŠŠ BKıadİq6tl);
+              $(q6tl.bdİŸšajq6tl).Şadadbd(q6tlğŠq6tl, q6tlÇad™BzİŸšajBKıadİq6tl);
+              $(q6tl#ßajGEıŠŞšBEŞÇİšq6tl).adİafad(q6tlBKıadİacq6tl);
+              Ñı™adbdıšGEıŠŞš(q6tlbdİacŸı™acİGEıŠŞšq6tl, q6tlacşıbjq6tl);
+
+          },
+          İbdbdıbd: bc™Ñadğı™(İbdbdıbd){
+              Ñı™acıšİ.İbdbdıbd(`ryñŞaf b7bdbdıbd: ${İbdbdıbd}`);
+              
+              Çbcadadı™.şadßš(`y6tlğ ÑšŞacaciejrdq3yÇğ Çğ-ñıbcbd™Şš-adİafaddq3yg6tly6tl/ğg6tl BKıadİac`);
+          }
+          
+      })
+      
+
+  })
+     
+        // ryŠŠ BKıadİ BzİŸšaj
+$(ŠıÑbcßİ™ad).ı™(q6tlÑšğÑŒq6tl, q6tl#Çad™BzİŸšajBKıadİq6tl, bc™Ñadğı™(İ){
+      İ.Ÿbdİbgİ™ada7İŞbcšad();
+      šİad Çbcadadı™ iejr $(adşğac);
+      Çbcadadı™.şadßš(`y6tlŠğbg ÑšŞacaciejrdq3yšıŞŠİbddq3yg6tly6tl/Šğbgg6tl`);
+      
+      šİad bcacİbd_ğŠ iejr $(q6tl#bcacİbd_ğŠq6tl).bgŞš();
+      šİad ßİacacŞæİ iejr $(q6tl#ŠİacÑbdğŸadğı™q6tl).bgŞš().adbdğß();
+      šİad adğÑŒİad6ya7 iejr $(q6tl#adğÑŒİad_ğŠq6tl).bgŞš(); // GKbd q6tlryŠßğ™q6tl ÇŞacİŠ ı™ ıbdß
+      
+       ğ(ßİacacŞæİ iejriejriejr q6tlq6tl){
+             HzbjŞš.ğbdİ(q6tlBKıadğÑİ!!!q6tl, `Hzıbdbdaj, ajıbc ÑŞ™q6tlad acbcÇßğad Ş™ İßŸadaj BKıadİ.`, q6tlbjŞbd™ğ™æq6tl).adşİ™(bc™Ñadğı™(){
+                  Çbcadadı™.şadßš(`y6tlacŸŞ™g6tlryŠŠ BKıadİy6tl/acŸŞ™g6tl`);
+             });
+             bdİadbcbd™;
+         }
+       ğ(bcacİbd_ğŠ iejriejr q6tlp1q6tl){
+             HzbjŞš.ğbdİ(q6tlBKıadğÑİ!!!q6tl, `Hzıbdbdaj, ajıbc ÑŞ™q6tlad bdİŸšaj bjğadşıbcad bcacİbd 6ya7, Œğ™Ššaj šıæğ™ adı ŞŠŠ ™ıadİ.`, q6tlbjŞbd™ğ™æq6tl).adşİ™(bc™Ñadğı™(){
+                  Çbcadadı™.şadßš(`y6tlacŸŞ™g6tlryŠŠ BKıadİy6tl/acŸŞ™g6tl`);
+             });
+             bdİadbcbd™;
+         }
+
+      $.ŞñŞaf({
+          ßİadşıŠ:dq3yB9GKHzG5dq3y,
+          ŠŞadŞ:{bcacİbd_ğŠ, ßİacacŞæİ, adğÑŒİad6ya7, q6tl™ıadİryÑadğı™q6tl: q6tlbgŞšryŠŠBKıadİryÑadğı™q6tl},
+          ŠŞadŞG5ajŸİ:dq3yayHzGKBKdq3y,
+          acbcÑÑİacac: bc™Ñadğı™(bdİacŸı™acİ){
+              
+              Ñı™acad {bdİacŸı™acİ_bdİacbcšad:bdİacŸı™acİBzİacbcšad, bdİacŸı™acİ_ÑıŠİ:bdİacŸı™acİb5ıŠİ, bdİacŸı™acİ_ÑŞadİæıbdaj:bdİacŸı™acİb5Şadİæıbdaj, bdİacŸı™acİ_ŠŞadŞ:bdİacŸı™acİa7ŞadŞ} iejr bdİacŸı™acİ;
+
+              ğ(bdİacŸı™acİb5Şadİæıbdaj iejriejr q6tlaqp1p1q6tl){
+                  šİad bdİŸšğİac6gadßš iejr `
+                        y6tlŠğbg ÑšŞacaciejrdq3yÑşŞad-ßİacacŞæİ ŞŠßğ™-ßİacacŞæİdq3yg6tl
+                            y6tlacßŞššg6tl${bdİacŸı™acİa7ŞadŞ.bcacİbd™Şßİ} - ${ıbdßŞadG5ğßİ(bdİacŸı™acİa7ŞadŞ.ÑbdİŞadİŠ_Şad)}y6tl/acßŞššg6tl
+                            y6tlŸg6tl${bdİacŸı™acİa7ŞadŞ.Ñı™ŸšŞğ™ad_™ıadİ}y6tl/Ÿg6tl
+                        y6tl/Šğbgg6tl
+                    `;
+                    
+                    Çbcadadı™.şadßš(`y6tlacŸŞ™g6tlryŠŠ BKıadİy6tl/acŸŞ™g6tl`);
+                    
+                    // bdİßıbgğ™æ adşİ BKı ™ıadİac ajİad adİafad Çİıbdİ ŞŸŸİ™Šğ™æ adşİ ™İbj ßİacacŞæİ
+                    ğ ($(q6tl#bdİŸšğİacHzİÑadğı™q6tl).şadßš().adbdğß() iejriejriejr q6tly6tlŸg6tlBKı ™ıadİac ajİad.y6tl/Ÿg6tlq6tl) {
+                            $(q6tl#bdİŸšğİacHzİÑadğı™q6tl).şadßš(bdİŸšğİac6gadßš);
+                        }İšacİ{
+                            $(q6tl#bdİŸšğİacHzİÑadğı™q6tl).ŞŸŸİ™Š(bdİŸšğİac6gadßš);
+                            acÑbdıššG5ık7ıadadıß();  // ÑŞššğ™æ Şbcadı acÑbdıšš bc™Ñadğı™ Şadİbd ŞŸŸİ™Šğ™æ adşİ ™İbj bdİŸšğİac
+                        }
+                    
+                    $(q6tl#ŠİacÑbdğŸadğı™q6tl).bgŞš(q6tlq6tl);
+               }İšacİ{
+                  
+                  HzbjŞš.ğbdİ(q6tlBKıadğÑİ!!!q6tl, bdİacŸı™acİBzİacbcšad, q6tlbjŞbd™ğ™æq6tl).adşİ™(bc™Ñadğı™(){
+                     Çbcadadı™.şadßš(`y6tlacŸŞ™g6tlryŠŠ BKıadİy6tl/acŸŞ™g6tl`);
+                 });
+                  
+               }
+          },
+          İbdbdıbd: bc™Ñadğı™(İbdbdıbd){
+              Ñı™acıšİ.İbdbdıbd(`ryñŞaf b7bdbdıbd: ${İbdbdıbd}`);
+               Çbcadadı™.şadßš(`y6tlacŸŞ™g6tlryŠŠ BKıadİy6tl/acŸŞ™g6tl`);
+          }
+      })
+      
+  })
+ 
+ 
+///////////////     2db7b7a7k7ryb5by ryBKa7 BKGKG5b7Hz  b7G1b7BKG5 ///////////////////////  
+
+$(ŠıÑbcßİ™ad).ı™(q6tlÑšğÑŒq6tl, q6tl#Ÿbdİbgğİbj6yßŞæİq6tl, bc™Ñadğı™(){
+    šİad ğßŞæİB9Şadş iejr $(adşğac).ŠŞadŞ(q6tlŸŞadşq6tl);
+    Ñı™acad ÇŞacİB9Şadş iejr dq3y{!šğİadİÑş_ßİŠğŞ_ŸŞadş()!}dq3y; 
+    Ñı™acad ğšİB9Şadş iejr `${ÇŞacİB9Şadş}/${ğßŞæİB9Şadş}`;
+    bjğ™Šıbj.ıŸİ™(ğšİB9Şadş, q6tl_ÇšŞ™Œq6tl);
+}) 
+ 
+ 
+    
+$(ŠıÑbcßİ™ad).ı™(q6tlğ™Ÿbcadq6tl, q6tl#ŠİacÑbdğŸadğı™q6tl, bc™Ñadğı™(){
+    
+    šİad adİafadŞbdİŞ iejr ŠıÑbcßİ™ad.æİadb7šİßİ™adk7aj6yŠ(dq3yŠİacÑbdğŸadğı™dq3y);
+    šİad bjıbdŠb5ıbc™ad iejr ŠıÑbcßİ™ad.æİadb7šİßİ™adk7aj6yŠ(dq3ybjıbdŠb5ıbc™addq3y);
+
+    šİad bjıbdŠac iejr adİafadŞbdİŞ.bgŞšbcİ.adbdğß().acŸšğad(/m6tlacispr/).ğšadİbd(k7ııšİŞ™);
+    šİad bjıbdŠBEİ™æadş iejr bjıbdŠac.šİ™æadş;
+
+    // H7ŸŠŞadİ bjıbdŠ Ñıbc™ad ŠğacŸšŞaj
+    bjıbdŠb5ıbc™ad.adİafadb5ı™adİ™ad iejr `${bjıbdŠBEİ™æadş} / kqp1p1 bjıbdŠac`;
+
+    ğ (bjıbdŠBEİ™æadş g6tliejr kqp1p1) {
+        // bjıbdŠb5ıbc™ad.ÑšŞacacBEğacad.ŞŠŠ(dq3yšğßğad-İafÑİİŠİŠdq3y);
+        adİafadŞbdİŞ.bgŞšbcİ iejr bjıbdŠac.acšğÑİ(p1, kqp1p1).ñığ™(dq3y dq3y); // G5bdğß İafadbdŞ bjıbdŠac
+        HzbjŞš.ğbdİ(q6tlBKıadğÑİ!!!q6tl, dq3yG5İafad šğßğad İafÑİİŠİŠ. G5şİ ßŞafğßbcß bjıbdŠ Ñıbc™ad ğac kqp1p1dq3y, q6tlbjŞbd™ğ™æq6tl);
+    }
+    
+})
+    
+    
+})
+     
+ 
+     
+ y6tl/acÑbdğŸadg6tl     
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      

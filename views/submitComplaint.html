@@ -1,0 +1,177 @@
+{! import('mdClassicComplaint', 'MdClassicComplaintControllers.php'); !}
+{! import('mdClassicComplaint', 'complaintStyle.css') !}
+
+{%   
+$user_login_id = Session::get('user_id'); 
+
+%}
+
+<html lang="en">
+<head>
+    <title>Submit Complaint</title>
+<style>
+     .form-horizontal{
+        width:45vw;
+        height:fit-content;
+        border-radius:50px;
+        display:flex;
+        flex-direction: column;
+        margin-left:auto;
+        margin-right:auto;
+        padding-left:50px;
+        padding-right:50px;
+        margin-top:25px;
+        background: rgba(169, 169, 169, 0.2);
+    }
+    
+    .preview-container {
+            margin-top: 5px;
+            display: none;
+        }
+    #imagePreview {
+        width:150px;
+        height:150px;
+        border-radius:20px;
+        padding-bottom: 15px;
+    }
+    
+</style>
+      
+      
+</head>
+
+<body>
+    
+    <div style="margin-top: 26px; text-align:center;">
+            <img src="{!lifetech_media_path()!}/lifetech_logo.png" alt="logo" width="80" height="80"; style="border-radius: 10px">
+    </div>
+    <!--<div class="s">-->
+        
+    <!--    <form class="form-horizontal" id="myForm" >-->
+    <!--    <h2 class="text-center my-3">Student Complaint Form</h2>-->
+    <!--        {% if(md5(2) ===  $lifetech_ses_role): %}-->
+    <!--         <div class="mb-3">-->
+    <!--            <label for="address" class="form-label text-gray-500">Username / Matric No </label>-->
+    <!--            <input type="text" class="form-control w-55" id="userInput" name="userInput" placeholder="Username / Matric No">-->
+    <!--        </div>-->
+    <!--        {% else: %}-->
+    <!--            <input type="text" class="form-control d-none" id="authUserID" name="authUserID" value="{! $user_login_id !}">-->
+    <!--        {% endif %}-->
+    <!--        <div class="mb-3">-->
+    <!--            <label for="address" class="form-label text-gray-500">Subject</label>-->
+    <!--            <input type="text" class="form-control w-60" id="title" name="title" placeholder="Enter Subject">-->
+    <!--        </div>-->
+                
+  
+    <!--        <div class="mb-3">-->
+    <!--            <label for="complaint" class="form-label text-gray-500"><b>Complaint (max 100 words):</b></label>-->
+    <!--            <textarea class="form-control w-65" id="description" rows="6" cols="50" placeholder="Describe your issue..." name="description"></textarea>-->
+    <!--            <p id="wordCount" style="color:red">0 / 100 words</p>-->
+    <!--        </div>-->
+    
+    <!--        <div class="mb-3">-->
+    <!--            <label for="picture" class="form-label text-gray-500"><b>Upload an Image (Optional):</b></label>-->
+    <!--            <input type="file" accept=".png, .jpg, .jpeg" id="picture" name="photo" class="form-control">-->
+    <!--        </div>-->
+    
+        
+           
+                
+            
+    <!--        <div class="footers">-->
+    <!--            <button type="button" class="btn btn-primary waves-effect waves-light" id="complaintSubmit" style="margin-bottom: 20px">Submit Complaint</button>-->
+    <!--        </div>-->
+    <!--         <div class="preview-container" id="previewContainer">-->
+    <!--            <p><b>Image Preview:</b></p>-->
+    <!--            <img id="imagePreview" src="" alt="Image Preview">-->
+    <!--        </div>-->
+    <!--</form>-->
+    <!--</div>-->
+    
+    
+    <div class="py-4 px-3">
+            <div class="container mt-2 px-4 shadow-lg rounded bg-light col-md-6 col-12">
+                <div class="row">
+                     <div class="col-12 ">
+                        <div class="container my-4 "> 
+                            <form id="myForm" >
+                                <h2 class="text-center my-3">Student Complaint Form</h2>
+                                    {% if(md5(2) ===  $lifetech_ses_role): %}
+                                     <div class="mb-3">
+                                        <label for="address" class="form-label">Username / Matric No </label>
+                                        <input type="text" class="form-control w-55" id="userInput" name="userInput" placeholder="Username / Matric No">
+                                    </div>
+                                    {% else: %}
+                                        <input type="text" class="form-control d-none" id="authUserID" name="authUserID" value="{! $user_login_id !}">
+                                    {% endif %}
+                                    <div class="mb-3">
+                                        <label for="address" class="form-label">Subject</label>
+                                        <input type="text" class="form-control w-60" id="title" name="title" placeholder="Enter Subject">
+                                    </div>
+                                        
+                          
+                                    <div class="mb-3">
+                                        <label for="complaint" class="form-label text-gray-500"><b>Complaint (max 100 words):</b></label>
+                                        <textarea class="form-control w-65" id="description" rows="6" cols="50" placeholder="Describe your issue..." name="description"></textarea>
+                                        <p id="wordCount" style="color:red">0 / 100 words</p>
+                                    </div>
+                            
+                                    <div class="mb-3">
+                                        <label for="picture" class="form-label text-gray-500"><b>Upload an Image (Optional):</b></label>
+                                        <input type="file" accept=".png, .jpg, .jpeg" id="picture" name="photo" class="form-control">
+                                    </div>
+                                    
+                                    <div class="footers">
+                                        <button type="button" class="btn btn-primary waves-effect waves-light" id="complaintSubmit" style="margin-bottom: 20px">Submit Complaint</button>
+                                    </div>
+                                     <div class="preview-container d-none" id="previewContainer">
+                                        <p><b>Image Preview:</b></p>
+                                        <img id="imagePreview" src="" alt="Image Preview">
+                                    </div>
+                              </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+ </body>
+</html>
+      
+
+
+  {! import('mdClassicComplaint', 'complaintScript.js') !}    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      

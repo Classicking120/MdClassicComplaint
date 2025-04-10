@@ -1,0 +1,88 @@
+
+ <style>
+
+.summary{
+    cursor:pointer;
+}
+
+.animate {
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+.animate:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+} 
+
+.loader {
+    width: fit-content;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: inherit;
+    clip-path: inset(0 3ch 0 0);
+    animation: l4 4s steps(4) infinite;
+}
+.loader:before {
+    content:"Processing..."
+}
+    @keyframes l4 {to{clip-path: inset(0 -1ch 0 0)}}
+    
+    
+     .chat-box {
+        width: 100%;
+        max-width: 800px;
+        height: 400px;
+        overflow-y: auto;
+        padding: 10px;
+        background: #f9f9f9;
+        border-radius: 10px;
+        border: 1px solid #ccc;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .chat-message {
+        max-width: 75%;
+        padding: 10px;
+        border-radius: 8px;
+        margin: 5px 0;
+        position: relative;
+        font-size: 14px;
+    }
+    
+    .admin-message {
+        align-self: flex-start;
+        background: #e3f2fd;
+        border-left: 5px solid #1e88e5;
+    }
+    
+    .student-message {
+        align-self: flex-end;
+        background: #c8e6c9;
+        border-right: 5px solid #43a047;
+    }
+    
+    .chat-message small {
+        display: block;
+        font-size: 12px;
+        margin-top: 5px;
+        color: #555;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+            
+</style>
+      
+      
+      
+           
