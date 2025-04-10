@@ -1,61 +1,126 @@
+# 📩 Complaint Ticket System
 
-Complaint Ticket System
+## 🔍 Overview
 
-Overview
-The Complaint Ticket System allows Complainants to submit complaints and receive a ticket ID. An admin can manage, respond, and edit/update those complaints status. Both parties can reply in a chat-style format, and the system supports email notifications and ticket history tracking.
+The **Complaint Ticket System** is designed for lifetechocms framework is a user-friendly platform for handling complaints through a ticket-based workflow. Complainants can submit issues and receive a unique Ticket ID. Administrators can view, respond, and update complaint statuses. Both parties can exchange messages through a chat-style interface, with full support for email notifications and ticket history tracking.
 
-Complainant:
-1.	Complaint Creation (Complainant): The complaint form allows Complainants (both authenticated and anonymous) to submit new complaints into the system. The form collects essential details such as Username/Matric no (Anonymous), subject, message content, and optional file attachment
-   For Submission:
-i.	Complainant fills in the complaint form. Anonymous users must provide a valid, unique identifier.
-ii.	The form data is validated
-iii.	Upon successful submission.
-•	A ticket ID is generated.
-•	The complaint is saved to the database.
-•	An email confirmation (with ticket ID) is sent to the Complainant.
-•	Complainant is shown a confirmation message.
- 
- 
+---
 
-2.	Complainant Search Ticket & Reply: This content allows Complainants to retrieve the history of a previously submitted complaint using their credentials (Username/Matric no and Complaints Ticket Id).
-Complainant can:
-i.	Search by username/matric no and ticket id
-ii.	Reply with more info
+## 👤 Complainant Features
 
- 
+### 1. Complaint Submission
 
-Admin:
-1.	Admin View Complaints:  This content enables admin users to manage submitted complaints efficiently. It provides tools for filtering, while keeping Complainants informed via email notifications.
- 	   Admin (including moderators and support staff) can: 
-i.	View all complaint tickets
-ii.	Filter by Status
-iii.	Gives Feedback to any complaint
-iv.	Change ticket status (e.g., Pending, In Progress, Resolved)
-v.	Admin can leave internal notes not visible to Complainants. Useful for collaboration
-vi.	Every admin reply generates an automatic email notification to the Complainant.
+Complainants (authenticated or anonymous) can submit a new complaint via a user-friendly form.
 
- 
- 
- 
-2.	Admin View Individual Complainant Complaint:  This Content allows admins to quickly locate and review all complaint tickets associated with a particular Complainant using their username or matric no.
+- **Form Fields**:
+  - Username or Matric No (required for anonymous users)
+  - Complaint Subject
+  - Message Content
+  - Optional File Attachment
 
- 
+- **Submission Process**:
+  1. Form data is validated.
+  2. A unique Ticket ID is generated.
+  3. Complaint is saved to the database.
+  4. Complainant receives an email with the Ticket ID.
+  5. A confirmation message is displayed to the user.
 
+---
 
+### 2. Ticket Search & Reply
 
-Reply Mechanism (Chat-like Interface):
-Replies are stored in a tb_complaint_feedback table.
-Replies show in chat view, with:
-i.	Admin messages aligned left
-ii.	Complainant messages aligned right
-iii.	Timestamp and sender type (Admin or Complainant) displayed
-iv.	Support text reply
+Complainants can retrieve and reply to previous complaints by searching with:
 
- 
+- **Username/Matric No**
+- **Ticket ID**
 
+They can:
+- View ticket history
+- Post additional replies or information
 
-Email Notifications
-i.	Complaint Created → Complainant receives ticket ID
-ii.	Admin Reply → Complainant receives reply notification
-iii.	Admin update status → Complainant receives notification for status update
+---
 
+## 👨‍💼 Admin Features
+
+### 1. Complaint Management Dashboard
+
+Admins (support staff or moderators) can efficiently manage complaints:
+
+- View all complaint tickets
+- Filter by status (Pending, In Progress, Resolved)
+- Reply to complaints
+- Update ticket statuses
+- Add internal notes (not visible to complainants)
+
+> 💡 **Note**: Every admin reply triggers an email notification to the complainant.
+
+---
+
+### 2. Search Complainant History
+
+Admins can quickly search all tickets submitted by a specific user using their **Username or Matric No**.
+
+---
+
+## 💬 Reply Mechanism (Chat-style View)
+
+Replies are saved in the `tb_complaint_feedback` table and displayed in a clean chat-like interface.
+
+- **Complainant messages**: Aligned right
+- **Admin messages**: Aligned left
+- **Each message includes**:
+  - Timestamp
+  - Sender role
+  - Optional support note
+
+---
+
+## 📧 Email Notifications
+
+The system supports automatic email notifications for key events:
+
+| Event                      | Recipient       | Description                            |
+|---------------------------|-----------------|----------------------------------------|
+| Complaint Created         | Complainant     | Ticket ID confirmation                 |
+| Admin Reply               | Complainant     | Message reply notification             |
+| Status Update             | Complainant     | Notification for complaint status      |
+
+---
+
+## 📁 Database Structure
+
+- `tb_complaints`: Stores complaint tickets
+- `tb_complaint_feedback`: Stores all replies and status updates
+
+---
+
+## 🚀 Getting Started
+
+To run the project locally or on a server, follow the standard installation steps for your platform.
+
+1. Clone the repository
+2. Import the SQL structure
+3. Configure email credentials
+4. Deploy on a supported server environment
+
+---
+
+## 🛠 Technologies Used
+
+- PHP (Vanilla or Framework)
+- MySQL
+- JavaScript
+- HTML/CSS
+- Email SMTP/PHPMailer
+
+---
+
+## 🤝 Contributions
+
+Feel free to fork the repository and contribute. All improvements and suggestions are welcome!
+
+---
+
+## 📄 License
+
+This project is open-source and free to use for educational or organizational purposes.
