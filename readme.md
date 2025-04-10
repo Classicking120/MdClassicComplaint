@@ -109,7 +109,7 @@ To run the project locally or on a server, follow the standard installation step
 
 ## 🛠 Technologies Used
 
-- PHP (Vanilla or Framework)
+- PHP (LifetechOCMS Framework)
 - MySQL
 - JavaScript
 - HTML/CSS
