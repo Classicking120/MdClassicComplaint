@@ -124,7 +124,7 @@ Feel free to fork the repository and contribute. All improvements and suggestion
 ---
 ## 🤝 Supervision
 
-This module was supervised by Adetunji Adedayo [Lifetech OCMS](https://github.com/Thenewteejay)  
+This module was supervised by  [Adetunji Adedayo](https://github.com/Thenewteejay)  
 
 ---
 ## 📄 License
