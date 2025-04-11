@@ -106,7 +106,7 @@ The system supports automatic email notifications for key events:
 
 To run the project locally or on a server, follow the standard installation steps for your platform.
 
-1. Install  [Lifetech OCMS](https://github.com/lifetechOCMS/lifetechocms.git) framework
+1. Install  [lifetechocms](https://github.com/lifetechOCMS/lifetechocms.git) framework
 2. Clone the repository
 3. Import this repository into your framework
 4. Configure email credentials
