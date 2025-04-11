@@ -122,7 +122,11 @@ To run the project locally or on a server, follow the standard installation step
 Feel free to fork the repository and contribute. All improvements and suggestions are welcome!
 
 ---
+## 🤝 Supervision
 
+This module was supervised by Adetunji Adedayo [Lifetech OCMS](https://github.com/Thenewteejay)  
+
+---
 ## 📄 License
 
 This project is open-source and free to use for educational or organizational purposes.
